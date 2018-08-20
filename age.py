@@ -1,0 +1,5 @@
+a=input("enter you name")
+b=int(input("enter your age"))
+c=int(input("current year"))
+d = str((c - b)+100)
+print(a+ " will be 100 years old in the year " + d)
