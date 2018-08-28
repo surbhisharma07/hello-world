@@ -33,4 +33,3 @@ def pow(a,b):
 a=int(input())
 b=int(input())
 print(pow(a,b))
-
